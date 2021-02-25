@@ -1,2 +1,4 @@
 # react-todo-app
-final version
+
+Todo Application
+----------------
